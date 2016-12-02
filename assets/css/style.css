@@ -322,13 +322,13 @@ h1, h2, h3, h4, h5, h6 {
 /* Separator About - Parallax Section */
 .sep {
 	background-attachment: fixed;
-	background-position: 50% 0;
+	background-position: 50% 0px;
 	background-repeat: no-repeat;
 	height: 450px;
 	position: relative;
 }
 .about {
-	background-image: url(../img/hollywood.jpg);
+	background-image: url(../img/hollywood2.jpg);
 }
 
 /* Portfolio Wrap Section */
@@ -428,7 +428,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact {
-	background-image: url(../img/china.jpg);
+	background-image: url(../img/shanghai.jpg);
 }
 
 #contactwrap label {
