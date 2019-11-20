@@ -488,3 +488,19 @@ h1, h2, h3, h4, h5, h6 {
 .desc {
 	margin-top: 25px;
 }
+
+/* ==========================================================================
+   CTA
+   ========================================================================== */
+
+.cta {
+  outline:none;
+  border:none;
+  text-decoration:none;
+  text-transform:uppercase;
+  background:#ffffff;
+  color:#202020;
+  box-sizing:border-box;
+  margin-top:20px;
+  padding:10px 40px;
+}
